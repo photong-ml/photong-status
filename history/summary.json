@@ -40,18 +40,20 @@
     "url": "https://photong-v3-web.pages.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/photong-v3-web.pages.dev.ico",
     "slug": "photong-v3-backup-site-cloudflare",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 186,
     "timeDay": 186,
     "timeWeek": 186,
     "timeMonth": 186,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "Photong v3 API",
