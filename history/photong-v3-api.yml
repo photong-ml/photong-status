@@ -1,7 +1,7 @@
 url: https://api-v3.photong.ml/
-status: up
-code: 200
-responseTime: 5181
-lastUpdated: 2023-01-25T07:07:46.035Z
+status: down
+code: 530
+responseTime: 59
+lastUpdated: 2023-01-25T14:52:26.781Z
 startTime: Wed Jan 25 2023 07:07:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
